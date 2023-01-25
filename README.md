@@ -4,3 +4,4 @@
 * 특정버전을  생성하기 git commit
 * 원격 저장소에 main brench에 올리기 git push origin main
 * 원격 저장소 main brench에서 받기 git pull origin main
+* 버전정보 git tag v0.1 [commit_id] & git push origin --tags
