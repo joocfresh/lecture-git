@@ -6,3 +6,5 @@
 * 원격 저장소 main brench에서 받기 git pull origin main
 * 버전정보 git tag v0.1 [commit_id] & git push origin --tags
 * 버전로그 확인 git log
+
+#### #### https://docs.github.com/ko/get-started 깃허브 설명서
